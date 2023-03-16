@@ -44,7 +44,7 @@ namespace QuizForm
                 _timer.Start();
             
             InitializeComponent();
-            //Laduje pierwsze pytanie
+            //loads first question
             this.questions = questions;
             Question.Text = questions[0].question;
             Button_A.Content = questions[0].answers[0];
@@ -53,7 +53,7 @@ namespace QuizForm
             Button_D.Content = questions[0].answers[3];
 
         }
-        //funkcja odpowiadajaca za wyswietlanie kolejnych pytan
+        //shows next questions
         private void showNextQuestion()
         {
             currentQuestion++;
@@ -72,12 +72,12 @@ namespace QuizForm
                 Button_D.Content = questions[currentQuestion].answers[3];
             }
         }
-        //klikasz odpowiedzi
+        //select answers
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             var button = sender as Button;
             if (button.Name == "Button_A")
-            {   //zwraca true/false poprawnej odpowiedzi
+            {   
                 if (questions[currentQuestion].checkAnswer((string)button.Content))
                 {
                     score++;
