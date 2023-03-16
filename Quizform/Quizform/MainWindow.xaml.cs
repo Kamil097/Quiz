@@ -33,7 +33,7 @@ namespace QuizForm
         private void Load_Button_Click(object sender, RoutedEventArgs e)
         {
             //sciezka
-            String Selected_path = "C:/Users/kamil/Desktop/quiz_tworzenie/Quizy";
+            String Selected_path = "C:/Users/Kamil/Documents/GitHub/Quiz/quiz_tworzenie/Quizy";
             String[] files = Directory.GetFiles(Selected_path);
 
             //ładuje quizy do listy
@@ -61,7 +61,7 @@ namespace QuizForm
             String Selected_Quiz;
             if (Load_Quiz.SelectedItem != null)
             {
-                Selected_Quiz = "C:/Users/kamil/Desktop/quiz_tworzenie/Quizy/" + Load_Quiz.SelectedItem.ToString();
+                Selected_Quiz = "C:/Users/Kamil/Documents/GitHub/Quiz/quiz_tworzenie/Quizy/" + Load_Quiz.SelectedItem.ToString();
                 LoadWindow lW = new LoadWindow(Selected_Quiz);
                 lW.Show();
                 this.Close();

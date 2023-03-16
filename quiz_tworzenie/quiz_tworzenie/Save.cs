@@ -14,7 +14,7 @@ namespace quiz_tworzenie
         //zapis do pliku
         public static void save(Quiz tab,List<string> o)
         {
-            string filePath = $@"C:\Users\Kamil\Desktop\Pulpit\StudiaPliki\Programowanie obiektowe i graficzne\Nowy folder\quiz_tworzenie\Quizy\{tab.nazwa}.txt";           
+            string filePath = $@"C:\Users\Kamil\Documents\GitHub\Quiz\quiz_tworzenie\Quizy\{tab.nazwa}.txt";           
             File.WriteAllLines(filePath, o);
             Console.ReadLine();      
         }

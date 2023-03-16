@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamil\\Desktop\\Quizform101 — kopia\\quizform\\quizform.csproj": {}
+    "C:\\Users\\Kamil\\Documents\\GitHub\\Quiz\\Quizform\\quizform\\quizform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamil\\Desktop\\Quizform101 — kopia\\quizform\\quizform.csproj": {
+    "C:\\Users\\Kamil\\Documents\\GitHub\\Quiz\\Quizform\\quizform\\quizform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamil\\Desktop\\Quizform101 — kopia\\quizform\\quizform.csproj",
+        "projectUniqueName": "C:\\Users\\Kamil\\Documents\\GitHub\\Quiz\\Quizform\\quizform\\quizform.csproj",
         "projectName": "quizform",
-        "projectPath": "C:\\Users\\Kamil\\Desktop\\Quizform101 — kopia\\quizform\\quizform.csproj",
+        "projectPath": "C:\\Users\\Kamil\\Documents\\GitHub\\Quiz\\Quizform\\quizform\\quizform.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamil\\Desktop\\Quizform101 — kopia\\quizform\\obj\\",
+        "outputPath": "C:\\Users\\Kamil\\Documents\\GitHub\\Quiz\\Quizform\\quizform\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

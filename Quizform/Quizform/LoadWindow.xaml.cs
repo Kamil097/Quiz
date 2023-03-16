@@ -28,7 +28,7 @@ namespace QuizForm
             string temp = "";
             for (int i = 0; i < Selected_Quiz.Length; i++)
             {
-                temp = Selected_Quiz.Remove(0, 44); //musisz to spersonalizować sobie tak, żeby w combo box było tylko "nazwa.txt"
+                temp = Selected_Quiz.Remove(0, 58); //musisz to spersonalizować sobie tak, żeby w combo box było tylko "nazwa.txt"
             }
             Selected_Quiz_Text.Text = temp;
         }

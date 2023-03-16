@@ -30,7 +30,7 @@ namespace quiz_tworzenie
         public MainWindow()
         {
             InitializeComponent();
-            string[] files = Directory.GetFiles($@"C:\Users\Kamil\Desktop\Pulpit\StudiaPliki\Programowanie obiektowe i graficzne\Nowy folder\quiz_tworzenie\Quizy");
+            string[] files = Directory.GetFiles($@"C:\Users\Kamil\Documents\GitHub\Quiz\quiz_tworzenie\Quizy");
 
             for (int i = 0; i < files.Length; i++)
             {
@@ -145,7 +145,7 @@ namespace quiz_tworzenie
             }
             else { MessageBox.Show("Podaj nazwę Quizu!"); }
             combo.Items.Clear();
-            string[] files = Directory.GetFiles($@"C:\Users\Kamil\Desktop\Pulpit\StudiaPliki\Programowanie obiektowe i graficzne\Nowy folder\quiz_tworzenie\Quizy");
+            string[] files = Directory.GetFiles($@"C:\Users\Kamil\Documents\GitHub\Quiz\quiz_tworzenie\Quizy");
 
             for (int i = 0; i < files.Length; i++)
             {
@@ -158,7 +158,7 @@ namespace quiz_tworzenie
             if (combo.Text != string.Empty)
             {
                 Interface1 obj = new Cezar();
-                string filepath = $@"C:/Users/kamil/Desktop/quiz_tworzenie/Quizy/{combo.Text}";
+                string filepath = $@"C:\Users\Kamil\Documents\GitHub\Quiz\quiz_tworzenie\Quizy\{combo.Text}";
                 List<string> lines = File.ReadAllLines(filepath).ToList();
                 List<Question> lista = Read.converter(obj.szyfr(lines, -9));
 

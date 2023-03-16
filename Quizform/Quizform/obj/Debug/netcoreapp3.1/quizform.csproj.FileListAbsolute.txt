@@ -154,3 +154,29 @@ C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\qu
 C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.dll
 C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
 C:\Users\kamil\Desktop\Quizform101 — kopia\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.exe
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.deps.json
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.json
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.runtimeconfig.dev.json
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.dll
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\bin\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.AssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\LoadWindow.g.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\Okno.g.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\Wyniki.g.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.cache
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform_MarkupCompile.lref
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\LoadWindow.baml
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\Okno.baml
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\Wyniki.baml
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.g.resources
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.AssemblyInfo.cs
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.dll
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.pdb
+C:\Users\Kamil\Documents\GitHub\Quiz\Quizform\quizform\obj\Debug\netcoreapp3.1\quizform.genruntimeconfig.cache
