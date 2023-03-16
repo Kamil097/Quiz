@@ -44,7 +44,7 @@ namespace QuizForm
                 string temp = "";
                 for (int i = 0; i < file.Length; i++)
                 {
-                    temp = file.Remove(0, 44); //musisz to spersonalizować sobie tak, żeby w combo box było tylko "nazwa.txt"
+                    temp = file.Remove(0, 58); //musisz to spersonalizować sobie tak, żeby w combo box było tylko "nazwa.txt"
                 }
                 Load_Quiz.Items.Add(temp);
             }
